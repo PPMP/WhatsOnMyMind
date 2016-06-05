@@ -1,2 +1,2 @@
 Dice Game
-Rolling dice
+Rolling Dice. Minimum 2 Maximum 12
