@@ -1,1 +1,1 @@
-A repository that contains programs that I write on whatever topics come to mind
+A repository that contains hackerrank challenges and "on the spot" programs
